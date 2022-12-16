@@ -50,10 +50,10 @@
   min-height: 100vh;
   padding: 15% 15%;
   margin: auto;
-  background-image: url(../img/pokebolas_.PNG);
-  /* background-position: center center; */
-  background-size: cover;
-  /* background-repeat: no-repeat; */
+  /* background-image: url(../img/pokebolas_.PNG); */
+  /* background-size: cover; */
+  background: rgb(131,210,168);
+  background: linear-gradient(110deg, rgba(131,210,168,1) 7%, rgba(206,246,230,1) 24%, rgba(193,245,232,1) 54%, rgba(217,247,242,1) 74%, rgba(141,215,213,1) 100%);
   width: 100%;
   align-items: flex-start;
   /* background-attachment: fixed;*/
